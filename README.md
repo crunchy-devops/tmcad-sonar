@@ -1,2 +1,2 @@
 # tmcad-sonar
-Basic functions of tmcad checked by SonarQube 
+Basic TMCAD functions were analyzed using SonarQube. 
